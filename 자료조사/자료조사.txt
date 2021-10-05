@@ -1,0 +1,94 @@
+1. PEST 자료 찾고
+
+
+Political
+
+Economical
+- GDP
+전국(시도) : https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1C86&conn_path=I2
+서울시만(2016) : https://data.seoul.go.kr/dataList/11043/S/2/datasetView.do 
+도시(서울, 창원- 2013) : https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2KAA912
+
+- 경제성장률
+전국(시도) : https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20571&conn_path=I2
+
+- 실업률
+시군구: https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1ES3A01S&vw_cd=MT_GTITLE01&list_id=106&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_GTITLE01
+https://kosis.kr/search/search.do?query=%EC%8B%A4%EC%97%85%EB%A5%A0
+경제활동인구(시/군) (수록기간 : 2013 ~ 2021)
+경제활동참가율(시/군) (수록기간 : 2013 ~ 2021)
+고용률(시/군) (수록기간 : 2013 ~ 2021)
+상용직 비중(시/군) (수록기간 : 2013 ~ 2021)
+실업률(시/군) (수록기간 : 2013 ~ 2021)
+실업자수(시/군) (수록기간 : 2013 ~ 2021)
+청년고용률(시/군) (수록기간 : 2013 ~ 2021)
+취업자수(시/군) (수록기간 : 2013 ~ 2021)
+타지역 통근 취업자(시/군) (수록기간 : 2013 ~ 2021)
+
+
+- 물가지수
+시도별로 있음 보통
+https://kosis.kr/
+
+Social-cultural
+- 지니계수, 5분위배율, 빈곤율
+시군구 분위 : https://kosis.kr/statHtml/statHtml.do?orgId=350&tblId=DT_35003_A0790&vw_cd=MT_ZTITLE&list_id=350_35003_4_1&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE(타 시도 있음)
+
+- 1인가구수 : 제공데이터
+- 외국인 수 : 제공데이터
+
+- 노령화지수 -> 그냥 인구데이터에서 연령 보면 될듯
+- 부패지수, 신뢰지수 -> 없었음
+- 인구 10만명당 사회복지시설수(시군구)
+https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20941&vw_cd=MT_GTITLE01&list_id=112&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_GTITLE01
+
+건강보험적용인구현황(시도/시/군/구) (수록기간 : 2004 ~ 2019)
+급여형태별요양급여실적(시도/시/군/구) (수록기간 : 2004 ~ 2019)
+노인 천명당 노인여가복지시설수(시도/시/군/구) (수록기간 : 2003 ~ 2020)
+등록장애인수(시도/시/군/구) (수록기간 : 2019 ~ 2020)
+보건및사회복지 사업체비율(시도/시/군/구) (수록기간 : 2006 ~ 2019)
+보건및사회복지사업 종사자비율(시도/시/군/구) (수록기간 : 2006 ~ 2019)
+요양기관수(시도/시/군/구) (수록기간 : 2003 ~ 2021)
+인구 십만명당 사회복지시설수(시도/시/군/구) (수록기간 : 2003 ~ 2018)
+인구십만명당 자살률(시도/시/군/구) (수록기간 : 1998 ~ 2020)
+일반회계중 사회복지예산비중(시도/시/군/구) (수록기간 : 2008 ~ 2019)
+일반회계중 일반공공행정예산비중(시도/시/군/구) (수록기간 : 2008 ~ 2019)
+
+
+Technological
+- 이동전화 가입자
+- SNS 이용율
+- 전자상거래
+- 범죄정보시스템도입
+-> 데이터 잘 없음..
+
+경찰범죄통계
+https://www.police.go.kr/www/open/publice/publice03_2020.jsp
+
+
+
+2. 셉테드 자료 찾고 - 환경
+https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201810760745522&dbt=NART
+
+
+
+3. 콤파쓰에 이미 있는 데이터들 찾아서 분류
+
+
+
+
+4. 치안그 무료 거기
+- 체감안전도 영향요소 융합데이터
+경찰서명, 설문인원수(전체, 급지별, 성별, 연령별),  종합체감안전도_점수, 전반적안전도_점수, 교통사고안전도_점수, 법질서준수도_점수, 절도폭력안전도_점수, 강도살인안전도_점수, 전반적경찰노력도_점수, 월 평균 소득 금액, 총 상주인구 수
+- 
+- 
+- 
+
+
+
+
+
+
+
+
+
